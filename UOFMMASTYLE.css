@@ -1,0 +1,32 @@
+body{
+    background-color: #4059AD;
+
+}
+h1{
+    color: #EFF2F1;
+    font-weight: 500;
+    font: helvetica;
+}
+
+p{
+    color: #97D8C4;
+    font-size:16pt;
+    font: garamond;
+}
+
+form-label{
+    color: #97D8C4;
+    font-size:16pt;
+    font: garamond;
+}
+h3{
+    color: #EFF2F1;
+    font-weight: 400;
+    font: helvetica;
+}
+h4{
+    color: #EFF2F1;
+    font-weight: 400;
+    font: helvetica;
+}
+
